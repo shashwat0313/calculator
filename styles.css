@@ -53,6 +53,8 @@
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     /* background-color: darkseagreen; */
     margin: 2% 2%;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 
 #expr{
